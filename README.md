@@ -6,7 +6,7 @@ This is a a review component made with ReactJS.
 
 ## Build with ⚙️
 
-This project is built with HTML, SCSS and ReactJS.
+This project is built with HTML, CSS and ReactJS.
 
 ## Screenshots 📷
 
